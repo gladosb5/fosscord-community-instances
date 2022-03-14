@@ -1,8 +1,8 @@
 [
 	{
-		"name": "gladoscord.com",
-		"url": "https://app.glados.com",
-		"description": "The offical gladosb5 discord instance",
+		"name": "fosscord.com",
+		"url": "https://app.fosscord.com",
+		"description": "The offical Fosscord instance",
 		"official": true
 	},
 	{
@@ -21,6 +21,12 @@
 		"name": "LinuxOS - FR",
 		"url": "https://fosscord.ynh.ovh",
 		"description": "My FossCord Instance"
+	},
+	{
+		"name": "TheArcaneBrony",
+		"url": "https://fosscord.thearcanebrony.net",
+		"description": "Instance of TheArcaneBrony",
+		"image": "https://github.com/TheArcaneBrony.png"
 	},
 	{
 		"name": "Freecord",
